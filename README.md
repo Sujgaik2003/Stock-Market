@@ -6,7 +6,6 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://img.shields.io/badge/stock-market-predectio" alt="project-screenshot" width="400" height="400/">
 
 <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/085/421/datas/original.png" alt="project-screenshot" width="400" height="400/">
 
