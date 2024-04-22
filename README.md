@@ -44,7 +44,7 @@ python evaluate_model.py
 <p>5. Making Predictions</p>
 
 ```
-python make_predictions.py
+python run stock.py
 ```
 
 <h2>🍰 Contribution Guidelines:</h2>
